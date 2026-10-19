@@ -32,3 +32,9 @@ without unnecessarily prescribing implementation details.
 
 When a product decision has architectural consequences, those consequences
 belong in the architecture documentation or an ADR.
+
+
+## Core specifications
+
+- [Model and Asset Identity](model/model.md) — Model identity, Assets,
+  relationships, Variants, Sets, provenance, ambiguity, and reconciliation.
